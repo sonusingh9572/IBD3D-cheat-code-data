@@ -76,5 +76,11 @@
     "code": "2011",
     "name": "Omni",
     "category": "car"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/gtiv_image/experiment.jpg",
+    "code": "1006",
+    "name": "s1000r",
+    "category": "bike"
   }
 ]
