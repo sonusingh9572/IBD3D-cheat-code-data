@@ -88,5 +88,11 @@
     "code": "2005",
     "name": "Thar",
     "category": "car"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/gtiv_image/swiftfacelift2012.jpg",
+    "code": "2012",
+    "name": "Swift Facelift",
+    "category": "car"
   }
 ]
