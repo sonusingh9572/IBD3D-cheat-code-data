@@ -82,5 +82,11 @@
     "code": "1006",
     "name": "s1000r",
     "category": "bike"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/gtiv_image/verna2001.jpg",
+    "code": "2001",
+    "name": "Verna",
+    "category": "car"
   }
 ]
