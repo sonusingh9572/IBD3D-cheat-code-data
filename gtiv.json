@@ -66,6 +66,12 @@
     "category": "car"
   },
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/gtiv_image/omni2011.jpg",
+    "code": "2011",
+    "name": "Omni",
+    "category": "car"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/gtiv_image/experiment.jpg",
     "code": "1006",
     "name": "s1000r",
@@ -75,12 +81,6 @@
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/gtiv_image/thaar2005.jpg",
     "code": "2005",
     "name": "Thar",
-    "category": "car"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/gtiv_image/safaristorms2014.jpg",
-    "code": "Safari Storm",
-    "name": "2014",
     "category": "car"
   }
 ]
