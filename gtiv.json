@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/gtiv_image/smallplane.jpg",
+    "code": "5501",
+    "name": "Small Plane",
+    "category": "flying vehicle"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/gtiv_image/bigplane.jpg",
     "code": "5500",
     "name": "Big Plane",
