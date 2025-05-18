@@ -144,5 +144,11 @@
     "code": "1211",
     "name": "Pulsar",
     "category": "bike"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/fograne99.jpg",
+    "code": "99",
+    "name": "Fog/Rain/Night",
+    "category": "other"
   }
 ]
