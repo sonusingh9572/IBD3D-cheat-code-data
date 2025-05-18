@@ -150,5 +150,11 @@
     "code": "99",
     "name": "Fog/Rain/Night",
     "category": "other"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/00.jpg",
+    "code": "00",
+    "name": "Fuel Tank",
+    "category": "other"
   }
 ]
