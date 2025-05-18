@@ -156,5 +156,11 @@
     "code": "00",
     "name": "Fuel Tank",
     "category": "other"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/gastank0.jpg",
+    "code": "0",
+    "name": "Gas Tank",
+    "category": "other"
   }
 ]
