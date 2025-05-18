@@ -162,5 +162,11 @@
     "code": "0",
     "name": "Gas Tank",
     "category": "other"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/morenpc.jpg",
+    "code": "12345",
+    "name": "More Npc",
+    "category": "other"
   }
 ]
