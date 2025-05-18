@@ -138,5 +138,11 @@
     "code": "2222",
     "name": "Atv",
     "category": "bike"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/pulsar1211.jpg",
+    "code": "1211",
+    "name": "Pulsar",
+    "category": "bike"
   }
 ]
