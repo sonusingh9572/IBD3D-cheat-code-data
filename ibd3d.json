@@ -60,6 +60,12 @@
     "category": "car"
   },
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/ufo0606.jpg",
+    "code": "0606",
+    "name": "Ufo",
+    "category": "flying vehicle"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/nisaan3005.jpg",
     "code": "3005",
     "name": "Nisaan",
@@ -155,12 +161,6 @@
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/gastank0.jpg",
     "code": "0",
     "name": "Gas Tank",
-    "category": "other"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/moretrafic.jpg",
-    "code": "54321",
-    "name": "More Traffic",
     "category": "other"
   },
   {
