@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/helicopter8000.jpg",
+    "code": "8000",
+    "name": "Helicopter",
+    "category": "flying vehicle"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/Splendor9000.jpg",
     "code": "9000",
     "name": "Splendor",
