@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/Hayabusa.jpg",
+    "code": "7000",
+    "name": "Hayabusa",
+    "category": "bike"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/helicopter8000.jpg",
     "code": "8000",
     "name": "Helicopter",
