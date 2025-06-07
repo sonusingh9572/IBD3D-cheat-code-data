@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/f3.jpg",
+    "code": "F3",
+    "name": "Sofa 2",
+    "category": "props"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/f2.jpg",
     "code": "F2",
     "name": "Sofa 1",
@@ -104,7 +110,7 @@
   {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/p9.jpg",
     "code": "P9",
-    "name": "Props 9",
+    "name": "Props",
     "category": "props"
   },
   {
