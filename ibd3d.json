@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/jet.jpg",
+    "code": "Jet",
+    "name": "Spawn Jet In Sky",
+    "category": "rgtool"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/uihide.jpg",
     "code": "Ui On",
     "name": "Show Ui",
