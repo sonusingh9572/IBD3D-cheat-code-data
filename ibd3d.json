@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/fanon.jpg",
+    "code": "Fanon",
+    "name": "Fan on",
+    "category": "rgtool"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/Load.jpg",
     "code": "Load",
     "name": "Load Position",
