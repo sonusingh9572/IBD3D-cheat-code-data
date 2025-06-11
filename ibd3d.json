@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/modoff.jpg",
+    "code": "modoff",
+    "name": "Chenge Object Location Off",
+    "category": "Rgtool"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/modon.jpg",
     "code": "modon",
     "name": "Chenge Object Location On",
