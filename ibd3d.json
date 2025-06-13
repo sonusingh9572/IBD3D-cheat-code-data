@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/boy1.jpg",
+    "code": "boy",
+    "name": "spawn boy 1",
+    "category": "rgtool"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/npcdance.jpg",
     "code": "Npcdance",
     "name": "Npc Dance",
