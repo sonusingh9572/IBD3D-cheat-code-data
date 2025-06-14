@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/jetpack320.jpg",
+    "code": "320",
+    "name": "Jetpack",
+    "category": "flying vehicle"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/minejetpack330.jpg",
     "code": "330",
     "name": "Mini Jetpack",
