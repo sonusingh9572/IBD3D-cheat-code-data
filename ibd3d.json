@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/0601ballon.jpg",
+    "code": "0601",
+    "name": "Hot Air Balloon",
+    "category": "flying vehicle"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/0606ufo.jpg",
     "code": "0606",
     "name": "Ufo",
