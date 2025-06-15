@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/cube.jpg",
+    "code": "Cu1 to Cu10",
+    "name": "Cube",
+    "category": "rgtool"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/RaceTrack.jpg",
     "name": "RaceTrack",
     "category": "challenges",
