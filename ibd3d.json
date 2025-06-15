@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/cylinder.jpg",
+    "code": "Cy1 to Cy10",
+    "name": "Cylinder",
+    "category": "rgtool"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/sphere.jpg",
     "code": "Sp1 to Sp10",
     "name": "Sphere",
