@@ -1,5 +1,11 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/trex51.jpg",
+    "code": "51",
+    "name": "T-Rex",
+    "category": "animal"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/velociraptor250.jpg",
     "code": "50",
     "name": "Walking VelociRaptor",
