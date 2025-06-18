@@ -1,9 +1,19 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/swift8.jpg",
+    "code": "8",
+    "name": "Swift-2024",
+    "category": "car",
+    "url": "https://www.dropbox.com/scl/fi/h42he899smkaguw2hlrmr/Swift-2024_PLUGIN?rlkey\u003dm797a9dqvvqekhzld0cj91ce1\u0026st\u003d8dxo9l47\u0026dl\u003d1"
+  },
+  {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/dragon0701.jpg",
     "code": "0701",
     "name": "Dragon",
-    "category": ["animal", "flying vehicle"]
+    "category": [
+      "animal",
+      "flying vehicle"
+    ]
   },
   {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/elephant6.jpg",
@@ -425,7 +435,10 @@
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/26flyingbird.jpg",
     "code": "26",
     "name": "Flying Bird Plugin",
-    "category": ["animal", "flying vehicle"],
+    "category": [
+      "animal",
+      "flying vehicle"
+    ],
     "url": "https://www.dropbox.com/scl/fi/mp8eo6terxyvu334fp4l9/PeaCock_PLUGIN?rlkey\u003dofxzadyvfsudjc12nqludu183\u0026st\u003d56s15fn6\u0026dl\u003d1"
   },
   {
