@@ -8,7 +8,7 @@
   {
     "image": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/images/ibd3d_image/truck.jpg",
     "code": "RGS",
-    "load": "\"https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/Truck.glb\"",
+    "load": "https://raw.githubusercontent.com/sonusingh9572/IBD3D-cheat-code-data/master/IBD3Dglb/Truck.glb",
     "name": "Truck",
     "category": "rgmenu"
   },
